@@ -1,3 +1,4 @@
-Git is a distribution version control system.
-Git is free software
-Git tracks changes.
+1Git is a distribution version control system.
+2Git is free software
+3Git tracks changes.
+4
