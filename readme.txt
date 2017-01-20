@@ -3,3 +3,4 @@
 3Git tracks changes.
 4
 5Creating a new branch is quick
+6Creat a new branch is quick & simple
